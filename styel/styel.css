@@ -1,7 +1,8 @@
 *{
     margin: 0px;
     padding: 0px;
-    
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
     box-sizing: border-box;
 }
 body{
@@ -11,6 +12,7 @@ body{
     url("./main.png");
     background-size: cover;
     background-attachment: fixed;
+    
 }
 .header{
     display: flex;
